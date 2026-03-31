@@ -22,9 +22,6 @@
 
 ### 🤺 About Me
 
-
 <p>&emsp;&emsp;嗨，你好，我是mpc。热爱编程、摄影、爬山、旅行、美食、徒步。</p>
-<p>&emsp;&emsp;rust改变世界</p>
-
 </tr></td>
 
